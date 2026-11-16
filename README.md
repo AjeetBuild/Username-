@@ -29,10 +29,11 @@
 
 <br><br>
 
-<a href="https://github.com/ajit000000547">
 <img src="https://img.shields.io/badge/➜%20FOLLOW%20ME%20ON%20GITHUB-00C853?style=for-the-badge">
 </a>
 
+
+https://ajeetbuild.github.io/Username-/
 </div>
 
 ---## 🤝 Let's Connect
@@ -40,6 +41,7 @@
 <div align="center">
 
 <a href="https://github.com/ajit000000547">
+     
 <img src="https://img.shields.io/badge/GitHub-Follow-00C853?style=for-the-badge&logo=github">
 </a>
 
